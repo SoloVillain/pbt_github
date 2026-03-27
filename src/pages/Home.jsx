@@ -9,10 +9,14 @@ function Home() {
        <Link to="/akbar"
           className="bg-white text-blue-800 font-semibold px-6 py-3 rounded-xl hover:bg-blue-100 text-center shadow-lg transition">
           Muhammad Addia Prasetyo Akbar (Ketua) 
-        </Link>
+        </Link> HEAD
         <Link to="/ridhwan"
           className="bg-white text-blue-800 font-semibold px-6 py-3 rounded-xl hover:bg-blue-100 text-center shadow-lg transition">
           Ridhwan Purwahdani (Anggota) 
+        </Link>
+        <Link to="/calvin"
+          className="bg-white text-blue-800 font-semibold px-6 py-3 rounded-xl hover:bg-blue-100 text-center shadow-lg transition">
+          Calvin Dicki Maulana Putra (Anggota) 
         </Link>
       </div>
     </div>
