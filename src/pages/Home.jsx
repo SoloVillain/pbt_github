@@ -9,7 +9,7 @@ function Home() {
        <Link to="/akbar"
           className="bg-white text-blue-800 font-semibold px-6 py-3 rounded-xl hover:bg-blue-100 text-center shadow-lg transition">
           Muhammad Addia Prasetyo Akbar (Ketua) 
-        </Link> HEAD
+        </Link> 
         <Link to="/ridhwan"
           className="bg-white text-blue-800 font-semibold px-6 py-3 rounded-xl hover:bg-blue-100 text-center shadow-lg transition">
           Ridhwan Purwahdani (Anggota) 
